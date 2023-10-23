@@ -6,6 +6,10 @@ Boot camp 2023
 
 https://ibehave.nrw/ibots-platform/about-ibots/
 
+#IDE
+
+Using Visual Studio Code and Anaconda
+
 #download the data
 
 https://hochschulcloud.nrw/de/download/index.html
