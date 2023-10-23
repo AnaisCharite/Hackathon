@@ -15,6 +15,9 @@ https://uni-bonn.sciebo.de/s/f81JqGZmEHXxMnB
 #Self-describing data
 
 BIDS
+
 ONE
+
 NetCDF
+
 NIX
